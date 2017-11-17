@@ -1,5 +1,7 @@
 {
   "name": "reason-to-do",
+  "license": "ISC",
+  "version": "0.0.0",
   "scripts": {
     "start": "bsb -make-world -w",
     "js": "bsb -make-world",
